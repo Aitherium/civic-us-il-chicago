@@ -1,0 +1,30 @@
+{
+  "counts": {
+    "bodies": 0,
+    "jurisdiction": 1,
+    "measures": 0,
+    "meetings": 0,
+    "offices": 0,
+    "officials": 9,
+    "sources": 7
+  },
+  "gaps": [
+    "the body and office structure of Chicago is not in the Census of Governments cache (the listing carries no body or seat count). This repo lists no bodies or offices until the city's charter, or a crowd submission in records/body, adds them.",
+    "no meeting records: the City Clerk publishes agendas as PDFs; meeting ingestion is slice 2",
+    "no measure records: council-file ingestion is slice 2",
+    "global-law has no corpus for jur:us-il:place:1714000 yet; nearest: country (united-states/federal). This repo references those corpora by path and pinned commit and never copies their text."
+  ],
+  "id": "jur:us-il:place:1714000",
+  "lookup_gaps": [],
+  "schema_version": "civic/1",
+  "sources": [
+    "source:eface1276269399b",
+    "source:d67cc2aa6a7260fe",
+    "source:b7a3842a3f972a77",
+    "source:e92fa1dc5e74d32c",
+    "source:f885d50ccb05f78b",
+    "source:c8e6292d1256ba5b",
+    "source:f1a4892d458c571e"
+  ],
+  "status": "seed"
+}
