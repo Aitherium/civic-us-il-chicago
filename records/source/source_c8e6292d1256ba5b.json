@@ -1,8 +1,10 @@
 {
   "commit": "47a4f1a36ff92d20cd4f573143b89cf54ad58f44",
+  "content_hash": "sha256:c27f79e0676be78ebf851f2573d71c8b7554e7c80029300b30576d5df641d696",
+  "etag": "W/\"2ccb9b3347c404064a3b6a5c5dd427c0\"",
   "generation": {
     "at": "2026-11-09",
-    "content_hash": "sha256:a9f87659f75b4dd62180599fc6306db92e11947e261c72cdaf2aa0d216653b6f",
+    "content_hash": "sha256:1ebfaa9a091de87cc662cf41025237abcbd1cb306cb16b969025a2f7ec4d8619",
     "generator": "civic_repo_gen/0.1.0",
     "source_snapshot": {
       "boundaries": "2026-11-09",
@@ -11,7 +13,7 @@
       "units": "2026-11-09"
     }
   },
-  "http_status": 0,
+  "http_status": 200,
   "id": "source:c8e6292d1256ba5b",
   "jurisdiction": "",
   "kind": "source",
@@ -33,9 +35,9 @@
       }
     ],
     "validated": {
-      "at": "2026-11-09",
-      "by": "civic_repo_gen/0.1.0",
-      "method": "generated-official"
+      "at": "2026-11-18",
+      "by": "civic-verify-bot",
+      "method": "source-fetched"
     },
     "vouches": []
   },
